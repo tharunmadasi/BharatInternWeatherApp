@@ -3,7 +3,6 @@ This Weather Web App was developed as part of my Bharat Intern internship. It pr
 API to display real-time data, including temperature and humidity. Collaborated with team members for feature
 enhancement and conducted rigorous testing to ensure system reliability.
 
-)
 
 Features: 
 Search weather by city name
